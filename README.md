@@ -15,26 +15,26 @@ Extrair outras informações padrões da CNH, como por exemplo data de validade,
 
 # Planejamento
 
-### 0. Como esse problema já foi resolvido anteriormente?
+0. Como esse problema já foi resolvido anteriormente?
 > Leitura de artigos e análise de repositórios no GitHub
 
-### 1. Criação do dataset
+1. Criação do dataset
 > 1.1 Digitalizar e tirar foto da minha CNH <br>
 > 1.2 Usar a CNH aberta ou fechada? <br>
 > 1.3 Editar foto com antecedência pode ajudar a reconhecer os caracteres? <br>
 > 1.4 Ocultar informações privadas da CNH e alterar número do RG e CPF <br>
 > 1.5 Existe dataset público?
 
-### 2. Reconhecimento Ótico de Caracteres (OCR)
+2. Reconhecimento Ótico de Caracteres (OCR)
 > 2.1 Qual biblioteca usar? <br>
 > 2.2 Como melhorar o reconhecimento?
 
-### 3. Processamento do texto
+3. Processamento do texto
 > 3.1 Qual biblioteca usar? <br>
 > 3.2 Extrair as informações usando REGEX ou NLP? <br>
 > 3.3 Qual é o máximo de padronização e escalabilidade que consigo alcançar?
 
-### 4. Teste com CNH diferente
+4. Teste com CNH diferente
 > Encontrou CPF corretamente, não identificou o nome, extraiu dois números de RG e três datas de nascimento.  <br>
 > Obs: Tirada da análise final para não expor os dados.
 
